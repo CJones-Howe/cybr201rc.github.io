@@ -1,0 +1,47 @@
+body {
+    background-color: red;
+    font-family: "Arial", sans-serif;
+}
+
+
+h1 {
+    font-size: 300%;
+}
+
+h2, h4, h6 {
+    color: purple;
+    text-align: center;
+}
+
+h3, h5 {
+    color: blue;
+    text-align: center;
+}
+
+#para1 {
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
